@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesTop</string>
+    <string name="home_description">Filmes Populares</string>
+    <string name="home_title">Catálogo de filmes</string>
+</resources>
